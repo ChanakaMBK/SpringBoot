@@ -1,7 +1,7 @@
 package com.aeturnum.StudentSpringBootREST;
 
 /**
- * @author chanaka.k
+ * @author chanaka.karunarathna
  *
  */
 
